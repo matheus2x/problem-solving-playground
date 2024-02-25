@@ -2,6 +2,9 @@
 
 ## Exercícios Teóricos
 
+<details>
+<summary>Lista de exercícios teóricos</summary>
+
 ### 01: Explique as diferenças entre CommonJS e ES Modules em relação à forma como os módulos são importados e exportados no Node.js.
 **Resposta:**
 
@@ -44,9 +47,14 @@
 
 ### 09: Além de CommonJS e ES Modules, existem outros sistemas de módulos disponíveis para o Node.js? Discuta brevemente sobre eles e suas respectivas utilidades.
 **Resposta:**
+</details>
 
+---
 
-## Exercícios práticos (via chat-GPT)
+## Exercícios práticos
+
+<details>
+<summary>Lista de exercícios práticos</summary>
 
 ### 01: Crie um módulo usando o padrão CommonJS que exporte uma função para calcular a área de um círculo com base no raio fornecido. Em seguida, importe e use essa função em outro arquivo.
 **Resposta:**
@@ -75,6 +83,10 @@
 
 ### 06: Projete uma estratégia de migração de um projeto Node.js que utiliza CommonJS para ES Modules. Considere os desafios e precauções necessários durante o processo de migração.
 **Resposta:**
+
+</details>
+
+---
 
 ## Projeto integrador
 ### Descrição:
